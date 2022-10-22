@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+/*-------header----*/
+
+#header{
+    background-color:#2C3E50  ;
+}
+
+.button{
+    margin-left: 130px;
+    border: 1px solid white;
+}
+
+ .headerLeft h1{
+    color:white;
+    margin-left: 60px;
+    margin-top: 200px;
+}
+
+.headerLeft p{
+    color:white;
+    margin-left: 80px;
+}
+
+.headerRight img{
+    margin-top: 50px;
+    margin-left: 180px;
+}
+
+/*------about-----*/
+
+#about h1{
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+#about p{
+    margin-top: 45px;
+    margin-left: 90px;
+}
+
+.aboutbutton{
+    margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+/*------skill-----*/
+
+#skill{
+    background-color:#2C3E50  ;
+}
+
+.skillName{
+    text-align: center;
+    padding-top: 50px;
+    color:white;
+}
+
+.skillPera{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.skillLeft ul{
+    list-style: none;
+    margin-top: 50px;
+}
+
+.skillLeft ul li{
+    color: white;
+    text-align: center;
+}
+
+.toplist{
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.ski{
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+.ski p{
+    margin-top: 20px;
+}
+
+.contain {
+    width: 100%;
+    background-color: #ddd;
+  }
+  
+  .skills {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+  }
+
+.head{
+    color:white;
+  }
+
+ .html {
+    width: 50%; 
+    background-color:#839192  ;
+}
+
+.css {
+    width: 70%; 
+    background-color:#839192  ;
+}
+
+.js {
+    width: 60%; 
+    background-color:#839192  ;
+}
+
+  .boot {
+    width: 90%;
+    background-color:#839192  ;
+}
+
+ 
+
+  .php {
+    width: 40%; 
+    background-color:#839192  ;
+}
+
+/*--------protfolio---*/
+
+#protfolio{
+    margin-bottom: 70px;
+    margin-top: 40px;
+}
+
+.project{
+    margin-top: 50px;
+    padding-bottom: 15px;
+    border-radius: 5px !important;
+}
+
+.title{
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+}
+
+.active{
+    background-color: #95A5A6 ;
+    border-radius: 5px !important;
+}
+
+/*----------footer-----*/
+
+#footer{
+    background-color:#2C3E50 ;
+}
+
+.footerLeft ul{
+    list-style: none;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.footerLeft ul li{
+    color: white;
+    margin-top: 20px;
+}
+
+.footerbutton{
+    margin-left: 90px;
+    margin-top: 90px;
+    border: 1px solid white !important;
+}
+
+.first{
+    margin-left: 20px;
+}
+
+.footerRight i{
+    color: white;
+    margin-top: 100px;
+    margin-left: 15px;
+}
